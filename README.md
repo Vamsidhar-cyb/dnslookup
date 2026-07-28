@@ -4,7 +4,6 @@
 ██║  ██║██║╚██╗██║╚════██║██║     ██║   ██║██║   ██║██╔═██╗ ██║   ██║██╔═══╝
 ██████╔╝██║ ╚████║███████║███████╗╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝██║
 ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝
-Cybersecurity Projects Python License: AGPLv3 PyPI
 
 Professional DNS query CLI with Rich terminal output, reverse lookups, and WHOIS integration.
 
